@@ -9,7 +9,7 @@ With 4 years of experience at a leading professional services firm working in da
 Agile, Alteryx, Business Consulting, Business Intelligence,	Data Analysis,	Data Pipelines,	Data Quality Assurance,	Data Science,	Data Visualisation,	Databases,	Extract Transform Load (ETL), Microsoft Office, Microsfot Power Platform, Python,	Robotic Process Automation (RPA),	SQL, Workiva
 
 ## Education
-#### BSc Digital and Technology Solutions Information Technology**
+#### BSc Digital and Technology Solutions Information Technology
 ##### BPP University - 08/2024
 Specialising in Data and learning the skills to excel both personally and professionally
 * Key modules include, Database and SQL, DevSecOps, Business Analytics and Insights, Big Data, Machine Learning and AI, Object Oriented Programming, Robotic Process Automation. Obtained First-Class in all
