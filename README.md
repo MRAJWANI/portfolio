@@ -10,7 +10,9 @@ Agile, Alteryx, Business Consulting, Business Intelligence,	Data Analysis,	Data 
  
 ## Education
 **BSc Digital and Technology Solutions Information Technology**
+
 BPP University - 08/2024
+
 Specialising in Data and learning the skills to excel both personally and professionally
 * Key modules include, Database and SQL, DevSecOps, Business Analytics and Insights, Big Data, Machine Learning and AI, Object Oriented Programming, Robotic Process Automation. Obtained First-Class in all
 * Dissertation topic: Applying of data science and predictive analytics to explore Water Scarcity in the UK and to support decision making for the Water Sector.
@@ -18,8 +20,11 @@ Specialising in Data and learning the skills to excel both personally and profes
   
 ## Work Experience
 **Senior - Digital Climate Change and Sustainability Services (CCaSS) Specialist EY, London, United Kingdom**
+
 September 2023 - Current
+
 Collaborated with companies to implement end-to-end digital solutions for ESG data and reporting as a Digital CCaSS consultant.
+
 Key projects have included:
 * Enhanced efficiency at a national utilities company by implementing a regulatory reporting platform, Databricks data pipelines, automating data validation and testing.
 * Engaged in complex data science and reporting projects, collaborating directly with business and regulatory stakeholders.
