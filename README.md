@@ -4,9 +4,11 @@
 
 ## Summary
 With 4 years of experience at a leading professional services firm working in data analytics roles, I am deeply interested in Environmental, Social, and Governance (ESG) and am keen to further specialise in the space by leveraging my Data Science capabilities. I bring a strong understanding of data pipelines, proficiency in working with complex datasets, and a knack for identifying key insights. I am excited about the prospect of using my analytical, teamwork, presentational, and technical skills in a role that promotes professional growth and opportunities for development.
- 
+</br></br>
+
 ## Key Skills
 Agile, Alteryx, Business Consulting, Business Intelligence,	Data Analysis,	Data Pipelines,	Data Quality Assurance,	Data Science,	Data Visualisation,	Databases,	Extract Transform Load (ETL), Microsoft Office, Microsfot Power Platform, Python,	Robotic Process Automation (RPA),	SQL, Workiva
+</br></br>
 
 ## Education
 #### BSc Digital and Technology Solutions Information Technology
@@ -15,6 +17,8 @@ Specialising in Data and learning the skills to excel both personally and profes
 * Key modules include, Database and SQL, DevSecOps, Business Analytics and Insights, Big Data, Machine Learning and AI, Object Oriented Programming, Robotic Process Automation. Obtained First-Class in all
 * Dissertation topic: Applying of data science and predictive analytics to explore Water Scarcity in the UK and to support decision making for the Water Sector.
 * On track to graduate with First-Class Honours in August 2024
+</br></br>
+
 ## Work Experience
 #### Senior - Digital Climate Change and Sustainability Services (CCaSS) Specialist EY, London, United Kingdom
 ##### September 2023 - Current
