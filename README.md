@@ -22,26 +22,23 @@ Collaborated with companies to implement end-to-end digital solutions for ESG da
 * Enhanced efficiency at a national utilities company by implementing a regulatory reporting platform, Databricks data pipelines, automating data validation and testing.
 * Engaged in complex data science and reporting projects, collaborating directly with business and regulatory stakeholders.
 * Successfully managed and coordinated intricate projects combining more than 200 diverse data sources to support data analysis through the utilisation of SQL, Python, Alteryx, and Power BI.
-
-&ensp;
-
+</br>
+</br>
 #### Senior - Solution Developer EY, London, United Kingdom
 ##### June 2022 - September 2023
 Designed, created, tested and delivered advanced bespoke analytics solutions to help cover audit risks through the use of data and technology.
 * Planned, created, tested and delivered reusable data analytics solutions for clients under tight time constraints and strict SLAs.
 * Created robust analytics solutions, data workflows, automation and technical plans using a variety of tools such as Alteryx, SQL, Python, Power BI, Excel, VBA, Visio.
 * Worked across various industries and teams, including Financial Accounting Advisory Services (FAAS), Assurance Analytics, and Climate Change and Sustainability Services (CCaSS).
-
-&ensp;
-
+</br>
+</br>
 #### Assurance Associate EY, London, United Kingdom
 ##### September 2020 - June 2022 
 Utilised industry-leading data analytics tools to facilitate the adoption and implementation of a data-first approach in conducting audits, enabling a smooth transition from traditional methods to digital audits.
 * Exposed to audit and data analytics in diverse industries such as Energy, Manufacturing, and Real Estate.
 * Obtained a unique perspective on technology applications to enhance audit processes and facilitate the adoption of analytics tools, emphasising quality, reliability, and data analysis.
-
-&ensp;
-
+</br>
+</br>
 #### Network Telecommunications Engineer Dataquest UK Limited, London, United Kingdom
 ##### October 2018 - September 2020
 Deployed, managed and serviced telecommunication setups for over 100 clients at a fast-growing business-to-business service provider.
