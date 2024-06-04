@@ -8,25 +8,17 @@ With 4 years of experience at a leading professional services firm working in da
 ## Key Skills
 Agile, Alteryx, Business Consulting, Business Intelligence,	Data Analysis,	Data Pipelines,	Data Quality Assurance,	Data Science,	Data Visualisation,	Databases,	Extract Transform Load (ETL), Microsoft Office, Microsfot Power Platform, Python,	Robotic Process Automation (RPA),	SQL, Workiva
 
-[]()
-
 ## Education
-**BSc Digital and Technology Solutions Information Technology**
-
-BPP University - 08/2024
-
+#### BSc Digital and Technology Solutions Information Technology**
+#####BPP University - 08/2024
 Specialising in Data and learning the skills to excel both personally and professionally
 * Key modules include, Database and SQL, DevSecOps, Business Analytics and Insights, Big Data, Machine Learning and AI, Object Oriented Programming, Robotic Process Automation. Obtained First-Class in all
 * Dissertation topic: Applying of data science and predictive analytics to explore Water Scarcity in the UK and to support decision making for the Water Sector.
 * On track to graduate with First-Class Honours in August 2024
 
-[]()
-
 ## Work Experience
-**Senior - Digital Climate Change and Sustainability Services (CCaSS) Specialist EY, London, United Kingdom**
-
-September 2023 - Current
-
+#### Senior - Digital Climate Change and Sustainability Services (CCaSS) Specialist EY, London, United Kingdom**
+##### September 2023 - Current
 Collaborated with companies to implement end-to-end digital solutions for ESG data and reporting as a Digital CCaSS consultant.
 
 Key projects have included:
@@ -34,18 +26,16 @@ Key projects have included:
 * Engaged in complex data science and reporting projects, collaborating directly with business and regulatory stakeholders.
 * Successfully managed and coordinated intricate projects combining more than 200 diverse data sources to support data analysis through the utilisation of SQL, Python, Alteryx, and Power BI.
 
-**Senior - Solution Developer EY, London, United Kingdom**
- 
-June 2022 - September 2023
+#### Senior - Solution Developer EY, London, United Kingdom**
+##### June 2022 - September 2023
  
 Designed, created, tested and delivered advanced bespoke analytics solutions to help cover audit risks through the use of data and technology.
 * Planned, created, tested and delivered reusable data analytics solutions for clients under tight time constraints and strict SLAs.
 * Created robust analytics solutions, data workflows, automation and technical plans using a variety of tools such as Alteryx, SQL, Python, Power BI, Excel, VBA, Visio.
 * Worked across various industries and teams, including Financial Accounting Advisory Services (FAAS), Assurance Analytics, and Climate Change and Sustainability Services (CCaSS).
  
-**Assurance Associate EY, London, United Kingdom**
- 
-September 2020 - June 2022
+#### Assurance Associate EY, London, United Kingdom**
+##### September 2020 - June 2022
  
 Utilised industry-leading data analytics tools to facilitate the adoption and implementation of a data-first approach in conducting audits, enabling a smooth transition from traditional methods to digital audits.
 * Exposed to audit and data analytics in diverse industries such as Energy, Manufacturing, and Real Estate.
@@ -58,8 +48,6 @@ October 2018 - September 2020
 Deployed, managed and serviced telecommunication setups for over 100 clients at a fast-growing business-to-business service provider.
 * Provided quality customer service and effectively troubleshooted telecommunication and related networking issues while adhering to strict SLAs.
 * Deployed new telecommunications systems with extensive training and exposure in both cloud systems and on-premise systems.
-
-[]()
 
 ## Projects
 QWE
