@@ -13,7 +13,7 @@ Agile, Alteryx, Business Consulting, Business Intelligence,	Data Analysis,	Data 
 
 ## Education
 #### BSc Digital and Technology Solutions Information Technology
-####BPP University - 08/2024
+#### BPP University - 08/2024
 Specialising in Data and learning the skills to excel both personally and professionally
 * Key modules include, Database and SQL, DevSecOps, Business Analytics and Insights, Big Data, Machine Learning and AI, Object Oriented Programming, Robotic Process Automation. Obtained First-Class in all
 * Dissertation topic: Applying of data science and predictive analytics to explore Water Scarcity in the UK and to support decision making for the Water Sector.
