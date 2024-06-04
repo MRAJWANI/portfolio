@@ -53,7 +53,7 @@ Deployed, managed and serviced telecommunication setups for over 100 clients at 
 <br>
 <br>
 
-## Showcase Projects
+## Showcase Projects: [Demo Projects](https://github.com/MRAJWANI/portfolio/tree/main/demo_projects)
 ### 1. [Python ML - Credit Card Fraud](https://github.com/MRAJWANI/portfolio/blob/main/demo_projects/Machine_Learning_%26_AI_Credit_Card_Fraud.ipynb)
 ### 2. [GeoJSON - Find Polygon for Coordinates](https://github.com/MRAJWANI/portfolio/blob/main/demo_projects/GeoJSON_Find_Polygon_for_Coordinates_.ipynb)
 ### 3. [Data Ingestion - Ingest, Wrangle, Test](https://github.com/MRAJWANI/portfolio/blob/main/demo_projects/Data_Ingestion.ipynb)
