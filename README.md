@@ -1,5 +1,5 @@
 
-# View Portfolio Page: [Malik Rajwani - Data Scientist Portfolio](https://mrajwani.github.io/portfolio/)
+# View Page: [Malik Rajwani - Data Scientist](https://mrajwani.github.io/portfolio/)
 
 
 # Data Scientist
