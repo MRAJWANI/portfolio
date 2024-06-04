@@ -1,4 +1,4 @@
-# View Portfolio Page: [Publication](https://mrajwani.github.io/portfolio/)
+# View Portfolio Page: [Malik Rajwani - Data Scientist Portfolio](https://mrajwani.github.io/portfolio/)
 
 # Data Scientist
 
