@@ -53,6 +53,9 @@ Key projects have included:
 * Successfully managed and coordinated intricate projects combining more than 200 diverse data sources to support data analysis through the utilisation of SQL, Python, Alteryx, and Power BI.
 
 
+
+
+
 **Senior - Solution Developer EY, London, United Kingdom**
 
 June 2022 - September 2023
@@ -63,6 +66,9 @@ Designed, created, tested and delivered advanced bespoke analytics solutions to 
 * Worked across various industries and teams, including Financial Accounting Advisory Services (FAAS), Assurance Analytics, and Climate Change and Sustainability Services (CCaSS).
 
 
+
+
+
 **Assurance Associate EY, London, United Kingdom**
 
 September 2020 - June 2022
@@ -70,6 +76,9 @@ September 2020 - June 2022
 Utilised industry-leading data analytics tools to facilitate the adoption and implementation of a data-first approach in conducting audits, enabling a smooth transition from traditional methods to digital audits.
 * Exposed to audit and data analytics in diverse industries such as Energy, Manufacturing, and Real Estate.
 * Obtained a unique perspective on technology applications to enhance audit processes and facilitate the adoption of analytics tools, emphasising quality, reliability, and data analysis.
+
+
+
 
 
 **Network Telecommunications Engineer Dataquest UK Limited, London, United Kingdom**
