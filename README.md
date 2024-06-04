@@ -15,8 +15,6 @@ Specialising in Data and learning the skills to excel both personally and profes
 * Key modules include, Database and SQL, DevSecOps, Business Analytics and Insights, Big Data, Machine Learning and AI, Object Oriented Programming, Robotic Process Automation. Obtained First-Class in all
 * Dissertation topic: Applying of data science and predictive analytics to explore Water Scarcity in the UK and to support decision making for the Water Sector.
 * On track to graduate with First-Class Honours in August 2024
-
-
 ## Work Experience
 #### Senior - Digital Climate Change and Sustainability Services (CCaSS) Specialist EY, London, United Kingdom
 ##### September 2023 - Current
@@ -25,6 +23,8 @@ Collaborated with companies to implement end-to-end digital solutions for ESG da
 * Engaged in complex data science and reporting projects, collaborating directly with business and regulatory stakeholders.
 * Successfully managed and coordinated intricate projects combining more than 200 diverse data sources to support data analysis through the utilisation of SQL, Python, Alteryx, and Power BI.
 
+&ensp;
+
 #### Senior - Solution Developer EY, London, United Kingdom
 ##### June 2022 - September 2023
 Designed, created, tested and delivered advanced bespoke analytics solutions to help cover audit risks through the use of data and technology.
@@ -32,11 +32,15 @@ Designed, created, tested and delivered advanced bespoke analytics solutions to 
 * Created robust analytics solutions, data workflows, automation and technical plans using a variety of tools such as Alteryx, SQL, Python, Power BI, Excel, VBA, Visio.
 * Worked across various industries and teams, including Financial Accounting Advisory Services (FAAS), Assurance Analytics, and Climate Change and Sustainability Services (CCaSS).
 
+&ensp;
+
 #### Assurance Associate EY, London, United Kingdom
 ##### September 2020 - June 2022 
 Utilised industry-leading data analytics tools to facilitate the adoption and implementation of a data-first approach in conducting audits, enabling a smooth transition from traditional methods to digital audits.
 * Exposed to audit and data analytics in diverse industries such as Energy, Manufacturing, and Real Estate.
 * Obtained a unique perspective on technology applications to enhance audit processes and facilitate the adoption of analytics tools, emphasising quality, reliability, and data analysis.
+
+&ensp;
 
 #### Network Telecommunications Engineer Dataquest UK Limited, London, United Kingdom
 ##### October 2018 - September 2020
