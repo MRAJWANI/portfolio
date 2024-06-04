@@ -26,10 +26,10 @@ Agile, Alteryx, Business Consulting, Business Intelligence,	Data Analysis,	Data 
 
 ## Education
 
-BSc Digital and Technology Solutions Information Technology
+**BSc Digital and Technology Solutions Information Technology**
 
 BPP University - 08/2024
-
+  
 Specialising in Data and learning the skills to excel both personally and professionally
 * Key modules include, Database and SQL, DevSecOps, Business Analytics and Insights, Big Data, Machine Learning and AI, Object Oriented Programming, Robotic Process Automation. Obtained First-Class in all
 * Dissertation topic: Applying of data science and predictive analytics to explore Water Scarcity in the UK and to support decision making for the Water Sector.
@@ -73,6 +73,7 @@ Utilised industry-leading data analytics tools to facilitate the adoption and im
 
 
 **Network Telecommunications Engineer Dataquest UK Limited, London, United Kingdom**
+
 October 2018 - September 2020
 
 Deployed, managed and serviced telecommunication setups for over 100 clients at a fast-growing business-to-business service provider.
