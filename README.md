@@ -7,7 +7,7 @@ With 4 years of experience at a leading professional services firm working in da
 <br>
 
 ## Key Skills
-Agile, Alteryx, Business Consulting, Business Intelligence,	Data Analysis,	Data Pipelines,	Data Quality Assurance,	Data Science,	Data Visualisation,	Databases,	Extract Transform Load (ETL), Microsoft Office, Microsfot Power Platform, Python,	Robotic Process Automation (RPA),	SQL, Workiva
+Agile, Alteryx, Business Consulting, Business Intelligence,	Data Analysis,	Data Pipelines,	Data Quality Assurance,	Data Science,	Data Visualisation,	Databases,	Devops, Extract Transform Load (ETL), Microsoft Office, Microsfot Power Platform, Python,	Robotic Process Automation (RPA),	SQL, Workiva
 <br>
 <br>
 
@@ -53,6 +53,7 @@ Deployed, managed and serviced telecommunication setups for over 100 clients at 
 <br>
 <br>
 
-## Projects
-QWE
+## Showcase Projects
+1. Python ML - Credit Card Fraud
+2. 
 
