@@ -4,6 +4,8 @@
 
 # Data Scientist
 
+### Key Skills: 123
+
 ### Education
 ABC
 
@@ -11,9 +13,6 @@ ABC
 ### Work Experience
 XYZ
 
-
-### Skills
-123
 
 ### Projects
 QWE
