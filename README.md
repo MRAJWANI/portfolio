@@ -1,4 +1,5 @@
-# View Page: [Malik Rajwani - Data Scientist](https://mrajwani.github.io/portfolio/)
+# View Landing Page: [Malik Rajwani - Data Scientist](https://mrajwani.github.io/portfolio/)
+# View Github: [Malik Rajwani - Github](https://github.com/MRAJWANI/portfolio)
 <br>
 
 # Data Scientist
