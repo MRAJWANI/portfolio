@@ -6,7 +6,7 @@
 With 4 years of experience at a leading professional services firm working in data analytics roles, I am deeply interested in Environmental, Social, and Governance (ESG) and am keen to further specialise in the space by leveraging my Data Science capabilities. I bring a strong understanding of data pipelines, proficiency in working with complex datasets, and a knack for identifying key insights. I am excited about the prospect of using my analytical, teamwork, presentational, and technical skills in a role that promotes professional growth and opportunities for development.
 <br>
 
-[Linkedin](https://www.linkedin.com/in/msrajwani/)
+### [Linkedin](https://www.linkedin.com/in/msrajwani/)
 <br>
 <br>
 
