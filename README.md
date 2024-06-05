@@ -9,7 +9,6 @@ With 4 years of experience at a leading professional services firm working acros
 ### [Linkedin](https://www.linkedin.com/in/msrajwani/)
 ### [Email](mailto:msrajwani@ymail.com)
 <br>
-<br>
 
 ## Key Skills
 Agile, Alteryx, Business Consulting, Business Intelligence,	Data Analysis,	Data Pipelines,	Data Quality Assurance,	Data Science,	Data Visualisation,	Databases,	Devops, Extract Transform Load (ETL), Microsoft Office, Microsfot Power Platform, Python,	Robotic Process Automation (RPA),	SQL, Workiva
