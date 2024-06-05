@@ -1,9 +1,9 @@
-# View Landing Page: [Malik Rajwani - Data Scientist](https://mrajwani.github.io/portfolio/)
+# View Landing Page: [Malik Rajwani - Landing Page](https://mrajwani.github.io/portfolio/)
 # View Github: [Malik Rajwani - Github](https://github.com/MRAJWANI/portfolio)
 <br>
 
-# Data Scientist
-With 4 years of experience at a leading professional services firm working across various data and business analyst focoused roles, I am deeply interested in Environmental, Social, and Governance (ESG), big data, machine learning and artificial intelligence. I am keen to further specialise in the space by leveraging my Data Science, Data Analytics and Business Analytics capabilities. I bring a strong understanding of data pipelines, proficiency in working with complex datasets, and a knack for identifying key insights. I am excited about the prospect of using my analytical, teamwork, presentational, and technical skills in a role that promotes professional growth and opportunities for development.
+## Summary
+With 4 years of experience at a leading professional services firm working across various data and business analyst focoused roles, I am deeply interested in Environmental, Social, and Governance (ESG), big data, machine learning and artificial intelligence. Having worked across a range of sectors, industries and scope, I am keen to further grow my Data Science, Data Analytics and Business Analytics capabilities in a challenging and rewarding role. I bring a strong understanding of data pipelines, proficiency in working with complex datasets, and a knack for identifying key insights. I am excited about the prospect of using my analytical, teamwork, presentational, and technical skills in a role that promotes professional growth and opportunities for development.
 <br>
 
 ### [Linkedin](https://www.linkedin.com/in/msrajwani/)
