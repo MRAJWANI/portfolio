@@ -3,7 +3,7 @@
 <br>
 
 # Data Scientist
-With 4 years of experience at a leading professional services firm working across various data and business analyst focoused roles, I am deeply interested in Environmental, Social, and Governance (ESG) and am keen to further specialise in the space by leveraging my Data Science capabilities. I bring a strong understanding of data pipelines, proficiency in working with complex datasets, and a knack for identifying key insights. I am excited about the prospect of using my analytical, teamwork, presentational, and technical skills in a role that promotes professional growth and opportunities for development.
+With 4 years of experience at a leading professional services firm working across various data and business analyst focoused roles, I am deeply interested in Environmental, Social, and Governance (ESG), big data, machine learning and artificial intelligence. I am keen to further specialise in the space by leveraging my Data Science, Data Analytics and Business Analytics capabilities. I bring a strong understanding of data pipelines, proficiency in working with complex datasets, and a knack for identifying key insights. I am excited about the prospect of using my analytical, teamwork, presentational, and technical skills in a role that promotes professional growth and opportunities for development.
 <br>
 
 ### [Linkedin](https://www.linkedin.com/in/msrajwani/)
@@ -29,7 +29,7 @@ Specialising in Data and learning the skills to excel both personally and profes
 ## Work Experience
 **Senior - Digital Climate Change and Sustainability Services (CCaSS) Specialist EY, London, United Kingdom** <br>
 September 2023 - Current <br>
-Collaborated with companies to implement end-to-end digital solutions for ESG data and reporting as a Digital CCaSS consultant. Key projects have included:
+Collaborated with companies to implement end-to-end digital agile solutions for ESG data and reporting as a Digital CCaSS consultant. Key projects have included:
 * Enhanced efficiency at a national utilities company by implementing a regulatory reporting platform, Databricks data pipelines, automating data validation and testing.
 * Engaged in complex data science and reporting projects, collaborating directly with business and regulatory stakeholders.
 * Successfully managed and coordinated intricate projects combining more than 200 diverse data sources to support data analysis through the utilisation of SQL, Python, Alteryx, and Power BI.
