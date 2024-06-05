@@ -7,6 +7,7 @@ With 4 years of experience at a leading professional services firm working in da
 <br>
 
 ### [Linkedin](https://www.linkedin.com/in/msrajwani/)
+### [Email](mailto@msrajwani@ymail.com)
 <br>
 <br>
 
