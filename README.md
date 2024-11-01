@@ -7,7 +7,7 @@ With 4 years of experience at a leading professional services firm working acros
 <br>
 
 ### [Linkedin](https://www.linkedin.com/in/msrajwani/)
-### [Email](mailto:msrajwani98@gmail.com)
+### [Email](mailto:github+msrajwani98@gmail.com)
 <br>
 
 ## Navigation
