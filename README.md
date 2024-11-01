@@ -30,8 +30,8 @@ September 2023 - Current <br>
 *	Collaborate directly with stakeholders to assess business needs, define and manage requirements, and implement digital ESG solutions for sustainability performance and regulatory compliance, integrating advanced business and data analytics, process optimisations, and automation.
 *	Successfully manage and deliver both self-led and team projects, coordinating complex data science and reporting efforts across various initiatives using SQL, Python, Alteryx, Power BI, bespoke solutions and more.
 *	Key achievements:
-**	  Led implementation of a full end-to-end solution for a national utility provider, reducing the regulatory reporting crunch by 30% and enhancing reporting consistency across the business.
-**	  Led the automation of data gathering, analysis, and reporting for a software provider, achieving a 75% reduction in monthly report production time and aiding more timely decision making.
+     Led implementation of a full end-to-end solution for a key account over 18 months, reducing the regulatory reporting crunch by 30% and enhancing reporting consistency across the business, resulting in over 2500 hours of savings across the year.
+     Led the automation of data gathering, analysis, and reporting for a software provider, achieving a 75% reduction in monthly report production time and aiding more timely decision making.
 
 <br>
 
@@ -41,10 +41,10 @@ Setember 2020 - September 2023 <br>
 *	Developed and deployed ad-hoc and reusable data analytics solutions, ensuring consistent, high-quality deliverables that adhered to strict SLAs. Conducted analyses on complex datasets across sales, client retention, HR, and other domains, uncovering critical insights.
 *	Obtained a unique perspective on technology applications to enhance audit processes and facilitate the adoption of analytics tools, emphasising quality, reliability, and data analysis.
 *	Key achievements:
-**	  Created reusable ticketing reconciliation reports that identified a material misstatement for a multinational transport company, integrating over 200 million data points from sales, completed journeys, and returns. 
-**	  Planned, implemented, and tested dashboard solutions for impairments, workforce analytics, and other key metrics, providing strategic insights across business units. 
-**	  Worked on high impact projects across various industries and teams, including Financial Accounting Advisory Services (FAAS), Assurance Analytics, and Climate Change and Sustainability Services (CCaSS).
-**	  Achieved accelerated promotion from Associate to Senior in 2022 following consistently exceptional performance and contribution to high-impact projects.
+     Created reusable ticketing reconciliation reports that identified a material misstatement for a multinational transport company, integrating over 200 million data points from sales, completed journeys, and returns. 
+     Planned, implemented, and tested dashboard solutions for impairments, workforce analytics, and other key metrics, providing strategic insights across business units. 
+     Worked on high impact projects across various industries and teams, including Financial Accounting Advisory Services (FAAS), Assurance Analytics, and Climate Change and Sustainability Services (CCaSS).
+     Achieved accelerated promotion from Associate to Senior in 2022 following consistently exceptional performance and contribution to high-impact projects.
 
 <br>
 
