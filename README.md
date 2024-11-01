@@ -3,7 +3,7 @@
 <br>
 
 ## Summary
-With 4 years of experience at a leading professional services firm working across various data and business analyst focused roles, I am deeply interested in Environmental, Social, and Governance (ESG), big data, machine learning and artificial intelligence. Having worked across a range of sectors, industries and scopes, I am keen to further grow my Data Science, Data Analytics and Business Analytics capabilities in challenging and rewarding roles. I bring a proven track record of managing, designing and implementing data-driven solutions across finance, analytics, and sustainability contexts displaying a strong understanding of data pipelines, proficiency in working with complex datasets, and a knack for identifying key insights and being able to convey complex information to stakeholders. I am excited about the prospect of using my analytical, teamwork, presentational, and technical skills in a role that promotes professional growth and opportunities for development.
+With 4 years of experience at a leading professional services firm working across various data and business analyst focused roles, I am deeply interested in Environmental, Social, and Governance (ESG), big data, machine learning and artificial intelligence. Having worked across a range of sectors, industries and scopes, I am keen to further grow my Data Science, Data Analytics and Business Analytics capabilities in challenging and rewarding roles. I bring a proven track record of managing, designing and implementing data-driven solutions across finance, analytics, and sustainability contexts displaying a strong understanding of data pipelines, proficiency in working with complex datasets, and a knack for identifying key insights and conveying complex information to stakeholders. I am excited about the prospect of using my analytical, teamwork, presentational, and technical skills in a role that promotes professional growth and opportunities for development.
 <br>
 
 ### [Linkedin](https://www.linkedin.com/in/msrajwani/)
@@ -26,7 +26,7 @@ Agile, Alteryx, Automation, Business Consulting, Business Intelligence,	Data Ana
 ## Education
 **Bachelor of Science, Digital and Technology Solutions (First-Class Honors)** <br>
 BPP University - School of Technology - 08/2024 <br>
-Specialising in Data and learning the skills to excel both personally and professionally
+Specialising in Data and learning the skills to excel both personally and professionally.
 * Key modules include, Database and SQL, DevSecOps, Business Analytics and Insights, Big Data, Machine Learning and AI, Object Oriented Programming, Robotic Process Automation. Obtained First-Class in all
 * Dissertation topic: Benchmarking Water companies in England and Wales using data science and predictive analytics across infrastructure, finance and water supply.
 <br>
@@ -38,14 +38,14 @@ September 2023 - Current <br>
 *	Collaborate directly with stakeholders to assess business needs, define and manage requirements, and implement digital ESG solutions for sustainability performance and regulatory compliance, integrating advanced business and data analytics, process optimisations, and automation.
 *	Successfully manage and deliver both self-led and team projects, coordinating complex data science and reporting efforts across various initiatives using SQL, Python, Alteryx, Power BI, bespoke solutions and more.
 *	Key achievements:
-     - Led implementation of a full end-to-end solution for a key account over 18 months, reducing the regulatory reporting crunch by 30% and enhancing reporting consistency across the business, resulting in over 2500 hours of savings across the year.
+     - Led the implementation of a full end-to-end solution for a key account over 18 months, reducing regulatory reporting time by 30% and enhancing consistency, resulting in over 2,500 hours of savings annually.
      - Led the automation of data gathering, analysis, and reporting for a software provider, achieving a 75% reduction in monthly report production time and aiding more timely decision making.
 
 <br>
 
 **Senior Solutions Developer – Assurance Analytics, EY, London, United Kingdom** <br>
 Setember 2020 - September 2023 <br>
-*	Planned, designed, developed, tested, and delivered advanced bespoke analytics solutions to address audit risks, leveraging data and technology to strengthen compliance and reduce audit complexities.
+*	Planned, designed, developed, tested, and delivered advanced, bespoke analytics solutions to address audit risks, leveraging data and technology to strengthen compliance and reduce audit complexities.
 *	Developed and deployed ad-hoc and reusable data analytics solutions, ensuring consistent, high-quality deliverables that adhered to strict SLAs. Conducted analyses on complex datasets across sales, client retention, HR, and other domains, uncovering critical insights.
 *	Obtained a unique perspective on technology applications to enhance audit processes and facilitate the adoption of analytics tools, emphasising quality, reliability, and data analysis.
 *	Key achievements:
