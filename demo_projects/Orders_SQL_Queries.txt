@@ -1,0 +1,161 @@
+-- Devoloped using BD Fiddle using MySQL 9.0
+-- Direct link to DB Fiddle to view DB and Run SQL:
+-- https://www.db-fiddle.com/f/nijDR4mUiAMABuiPFX4npD/0
+
+
+-- Create table to store allergens  
+CREATE TABLE Allergens
+	(id INTEGER NOT NULL AUTO_INCREMENT,
+   	 allergen_name VARCHAR(255),
+  	 allergen_type VARCHAR(255) NOT NULL,
+     PRIMARY KEY (id)) AUTO_INCREMENT=1;
+     
+-- Create table to store customers and their allergies and if they check for alternatives
+CREATE TABLE CustomerAllergens
+ 	(customer_id INTEGER NOT NULL,
+     allergen_id INTEGER NOT NULL,
+     check_alternative BOOL NOT NULL DEFAULT false,
+  	 alternative_option VARCHAR(255) NOT NULL DEFAULT "NONE",
+     PRIMARY KEY (customer_id, allergen_id),
+  	 FOREIGN KEY (customer_id) REFERENCES Customer(id),
+  	 FOREIGN KEY (allergen_id) REFERENCES Allergens(id));     
+
+-- Create table to store allergens contained in a products and if there is alternative
+CREATE TABLE ProductAllergens
+ 	(product_id INTEGER NOT NULL,
+     allergen_id INTEGER NOT NULL,
+     has_alternative BOOL NOT NULL DEFAULT false,
+  	 alternative_option VARCHAR(255) NOT NULL DEFAULT "NONE",
+     PRIMARY KEY (product_id, allergen_id),
+  	 FOREIGN KEY (product_id) REFERENCES Product(id),
+  	 FOREIGN KEY (allergen_id) REFERENCES Allergens(id));
+
+-- Adding sample allergens to Allergens table
+INSERT INTO Allergens (allergen_name, allergen_type) VALUES
+ 	("Cheese", "Milk"), 
+  	("Bread Flour", "Gluten"), 
+  	("Eggs", "Eggs"), 
+  	("Sesame Seeds","Sesame Seeds"),
+  	("Cashew Nuts", "Tree Nut"), 
+  	("Crustaceans","Crustaceans");
+    
+-- Adding sample allergens to customers using Custoemr Allergens table 
+INSERT INTO CustomerAllergens (customer_id, allergen_id, check_alternative, alternative_option) VALUES
+	(1,6,DEFAULT,DEFAULT), (5,2,true,"Gluten-Free Flour"), (5,5,true,"Tree Nut");
+  
+-- Adding sample allergens to products using Product Allergens table 
+INSERT INTO ProductAllergens (product_id, allergen_id, has_alternative, alternative_option) VALUES
+	(1,1,DEFAULT,DEFAULT), (5,1,DEFAULT,DEFAULT), (1,2,DEFAULT,DEFAULT), (2,2,true,"Gluten-Free Flour"),
+    (5,2,true,"Gluten-Free Flour"), (6,2,DEFAULT,DEFAULT), (8,2,DEFAULT,DEFAULT), (6,3,DEFAULT,DEFAULT),
+    (7,4,true,"Leave Out of Dish"), (7,5,true,"Leave Out of Dish");
+ 	
+
+-- Visual to see all products with allergens, their name, the allergen name and type
+
+SELECT ProductAllergens.product_id as foodID, Product.title as name, 
+	ProductAllergens.allergen_id as allergenID, Allergens.allergen_name, Allergens.allergen_type
+	FROM ProductAllergens, Product, Allergens
+    WHERE ProductAllergens.product_id = Product.id AND ProductAllergens.allergen_id = Allergens.id
+	ORDER BY ProductAllergens.product_id, Allergens.id;
+
+
+-- Visual to see all customers with allergens, their name, the allergen name and type
+
+SELECT CustomerAllergens.customer_id as customerID, Customer.first_name as fName, 
+	Customer.last_name as lName, CustomerAllergens.allergen_id as allergenID, Allergens.allergen_name,
+    Allergens.allergen_type
+	FROM CustomerAllergens, Customer, Allergens
+    WHERE CustomerAllergens.customer_id = Customer.id AND CustomerAllergens.allergen_id = Allergens.id
+    ORDER BY Customer.id, Allergens.id;
+
+
+
+
+
+
+
+-- Section 2
+
+
+-- Query 1 - Remove all blank spaces in customer contact number and search for numbers starting with '0800' or '0845'
+SELECT * 
+FROM Customer 
+WHERE REPLACE(contact_number, ' ', '') LIKE '0800%' 
+OR REPLACE(contact_number, ' ', '') LIKE '0845%';
+
+
+
+-- Query 2 - Returns all customers names, contact and address if applicable
+SELECT Customer.*, Address.house_name_number , Address.postcode 
+FROM Customer
+LEFT JOIN Address 
+ON Address.customer_id = Customer.id
+ORDER BY Customer.last_name , Customer.first_name;
+
+
+
+-- Query 3 - Return all address not used for an order delivery and is not default address
+SELECT Address.* 
+FROM Address
+LEFT JOIN OnlineOrder 
+ON Address.id = OnlineOrder.delivery_address_id
+WHERE OnlineOrder.delivery_address_id IS NULL 
+AND Address.is_default = false
+ORDER BY Address.id;
+
+
+
+-- Query 4 - Count of number of orders each product appeared in and the mean amount ordered, including never ordered
+SELECT Product.id,Product.title, COUNT(OrderContent.product_id) AS CountOfOrders, IF(AVG(OrderContent.amount) IS NOT NULL, AVG(OrderContent.amount), 0) AS MeanAmountOrdered
+FROM Product
+LEFT JOIN OrderContent ON OrderContent.product_id=Product.id 
+GROUP BY Product.id,Product.title
+ORDER BY COUNT(OrderContent.product_id) DESC;
+
+
+
+-- Query 5 - Top 3 customers by total spend in 2021, looking at total amount ordered
+SELECT C.id as CustomerID, C.first_name AS FirstName, C.last_name AS LastName, SUM(OC.amount*P.Price) AS TotalSpend
+FROM Customer AS C
+LEFT JOIN OnlineOrder AS OO ON C.id=OO.customer_id
+LEFT JOIN OrderContent AS OC ON OO.id=OC.order_id
+LEFT JOIN Product AS P ON OC.product_id=P.id
+-- Filter for 2021
+WHERE YEAR(OO.order_date) = '2021'
+GROUP BY C.id
+ORDER BY TotalSpend DESC
+LIMIT 3;
+
+
+
+-- Query 6 - Amount ordered on each day between 17:00-19:00 and 00:00-02:00
+
+SELECT OrderDayNum, OrderDay, avg(EarlyMorning) as EarlyMorningAvg, avg(EarlyEvening) as EarlyEveningAvg,
+-- Evaluate and output result
+CASE
+WHEN avg(EarlyMorning) < avg(EarlyEvening) THEN 'Evening'
+WHEN avg(EarlyEvening) < avg(EarlyMorning) THEN 'Morning'
+ELSE 'No Orders in Window'
+END Result
+-- Table to get orders per per day and with columns for the 2 time periods
+FROM
+(
+SELECT DAYOFWEEK(OO.order_date) AS OrderDayNum, DAYNAME(OO.order_date) AS OrderDay,
+-- 00:00 to 02:00
+CASE
+WHEN Time(OO.order_date) BETWEEN Time('00:00:00') AND TIME('02:00:00') THEN (OC.amount*P.Price)
+ELSE 0
+END EarlyMorning,
+-- 17:00 to 19:00
+CASE
+WHEN Time(OO.order_date) BETWEEN Time('17:00:00') AND TIME('19:00:00') THEN (OC.amount*P.Price)
+ELSE 0
+END EarlyEvening
+
+FROM OnlineOrder AS OO
+LEFT JOIN OrderContent AS OC ON OO.id=OC.order_id
+LEFT JOIN Product AS P ON OC.product_id=P.id
+) T
+
+GROUP BY OrderDayNum,OrderDay
+ORDER BY OrderDayNum;
