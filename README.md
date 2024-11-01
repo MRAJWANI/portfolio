@@ -3,7 +3,7 @@
 <br>
 
 ## Summary
-With 4 years of experience at a leading professional services firm working across various data and business analyst focoused roles, I am deeply interested in Environmental, Social, and Governance (ESG), big data, machine learning and artificial intelligence. Having worked across a range of sectors, industries and scope, I am keen to further grow my Data Science, Data Analytics and Business Analytics capabilities in a challenging and rewarding role. I bring a strong understanding of data pipelines, proficiency in working with complex datasets, and a knack for identifying key insights. I am excited about the prospect of using my analytical, teamwork, presentational, and technical skills in a role that promotes professional growth and opportunities for development.
+With 4 years of experience at a leading professional services firm working across various data and business analyst focused roles, I am deeply interested in Environmental, Social, and Governance (ESG), big data, machine learning and artificial intelligence. Having worked across a range of sectors, industries and scopes, I am keen to further grow my Data Science, Data Analytics and Business Analytics capabilities in challenging and rewarding roles. I bring a proven track record of managing, designing and implementing data-driven solutions across finance, analytics, and sustainability contexts displaying a strong understanding of data pipelines, proficiency in working with complex datasets, and a knack for identifying key insights and being able to convey complex information to stakeholders. I am excited about the prospect of using my analytical, teamwork, presentational, and technical skills in a role that promotes professional growth and opportunities for development.
 <br>
 
 ### [Linkedin](https://www.linkedin.com/in/msrajwani/)
@@ -11,48 +11,47 @@ With 4 years of experience at a leading professional services firm working acros
 <br>
 
 ## Key Skills
-Agile, Alteryx, Business Consulting, Business Intelligence,	Data Analysis,	Data Pipelines,	Data Quality Assurance,	Data Science,	Data Visualisation,	Databases,	Devops, Extract Transform Load (ETL), Microsoft Office, Microsfot Power Platform, Python,	Robotic Process Automation (RPA),	SQL, Workiva
+Agile, Alteryx, Automation, Business Consulting, Business Intelligence,	Data Analysis,	Data Pipelines,	Data Quality Assurance,	Data Science,	Data Visualisation,	Databases,	Devops, Extract Transform Load (ETL), Microsoft Office, Microsfot Power Platform, Python,	Robotic Process Automation (RPA),	SQL, Workiva
 <br>
 <br>
 
 ## Education
-**BSc Digital and Technology Solutions Information Technology** <br>
-BPP University - 08/2024 <br>
+**Bachelor of Science, Digital and Technology Solutions (First-Class Honors)** <br>
+BPP University - School of Technology - 08/2024 <br>
 Specialising in Data and learning the skills to excel both personally and professionally
 * Key modules include, Database and SQL, DevSecOps, Business Analytics and Insights, Big Data, Machine Learning and AI, Object Oriented Programming, Robotic Process Automation. Obtained First-Class in all
-* Dissertation topic: Applying of data science and predictive analytics to explore Water Scarcity in the UK and to support decision making for the Water Sector.
-* On track to graduate with First-Class Honours in August 2024
+* Dissertation topic: Benchmarking Water companies in England and Wales using data science and predictive analytics across infrastructure, finance and water supply.
 <br>
 <br>
 
 ## Work Experience
-**Senior - Digital Climate Change and Sustainability Services (CCaSS) Specialist EY, London, United Kingdom** <br>
+**Senior Consultant – Digital Specialist, Climate Change and Sustainability Services (CCaSS), EY, London, United Kingdom** <br>
 September 2023 - Current <br>
-Collaborated with companies to implement end-to-end digital agile solutions for ESG data and reporting as a Digital CCaSS consultant. Key projects have included:
-* Enhanced efficiency at a national utilities company by implementing a regulatory reporting platform, Databricks data pipelines, automating data validation and testing.
-* Engaged in complex data science and reporting projects, collaborating directly with business and regulatory stakeholders.
-* Successfully managed and coordinated intricate projects combining more than 200 diverse data sources to support data analysis through the utilisation of SQL, Python, Alteryx, and Power BI.
+*	Collaborate directly with stakeholders to assess business needs, define and manage requirements, and implement digital ESG solutions for sustainability performance and regulatory compliance, integrating advanced business and data analytics, process optimisations, and automation.
+*	Successfully manage and deliver both self-led and team projects, coordinating complex data science and reporting efforts across various initiatives using SQL, Python, Alteryx, Power BI, bespoke solutions and more.
+*	Key achievements:
+**	  Led implementation of a full end-to-end solution for a national utility provider, reducing the regulatory reporting crunch by 30% and enhancing reporting consistency across the business.
+**	  Led the automation of data gathering, analysis, and reporting for a software provider, achieving a 75% reduction in monthly report production time and aiding more timely decision making.
+
 <br>
 
-**Senior - Solution Developer EY, London, United Kingdom** <br>
-June 2022 - September 2023 <br>
-Designed, created, tested and delivered advanced bespoke analytics solutions to help cover audit risks through the use of data and technology.
-* Planned, created, tested and delivered reusable data analytics solutions for clients under tight time constraints and strict SLAs.
-* Created robust analytics solutions, data workflows, automation and technical plans using a variety of tools such as Alteryx, SQL, Python, Power BI, Excel, VBA, Visio.
-* Worked across various industries and teams, including Financial Accounting Advisory Services (FAAS), Assurance Analytics, and Climate Change and Sustainability Services (CCaSS).
-<br>
+**Senior Solutions Developer – Assurance Analytics, EY, London, United Kingdom** <br>
+Setember 2020 - September 2023 <br>
+*	Planned, designed, developed, tested, and delivered advanced bespoke analytics solutions to address audit risks, leveraging data and technology to strengthen compliance and reduce audit complexities.
+*	Developed and deployed ad-hoc and reusable data analytics solutions, ensuring consistent, high-quality deliverables that adhered to strict SLAs. Conducted analyses on complex datasets across sales, client retention, HR, and other domains, uncovering critical insights.
+*	Obtained a unique perspective on technology applications to enhance audit processes and facilitate the adoption of analytics tools, emphasising quality, reliability, and data analysis.
+*	Key achievements:
+**	  Created reusable ticketing reconciliation reports that identified a material misstatement for a multinational transport company, integrating over 200 million data points from sales, completed journeys, and returns. 
+**	  Planned, implemented, and tested dashboard solutions for impairments, workforce analytics, and other key metrics, providing strategic insights across business units. 
+**	  Worked on high impact projects across various industries and teams, including Financial Accounting Advisory Services (FAAS), Assurance Analytics, and Climate Change and Sustainability Services (CCaSS).
+**	  Achieved accelerated promotion from Associate to Senior in 2022 following consistently exceptional performance and contribution to high-impact projects.
 
-**Assurance Associate EY, London, United Kingdom** <br>
-September 2020 - June 2022 <br>
-Utilised industry-leading data analytics tools to facilitate the adoption and implementation of a data-first approach in conducting audits, enabling a smooth transition from traditional methods to digital audits.
-* Exposed to audit and data analytics in diverse industries such as Energy, Manufacturing, and Real Estate.
-* Obtained a unique perspective on technology applications to enhance audit processes and facilitate the adoption of analytics tools, emphasising quality, reliability, and data analysis.
 <br>
 
 **Network Telecommunications Engineer Dataquest UK Limited, London, United Kingdom** <br>
 October 2018 - September 2020 <br>
-Deployed, managed and serviced telecommunication setups for over 100 clients at a fast-growing business-to-business service provider.
-* Provided quality customer service and effectively troubleshooted telecommunication and related networking issues while adhering to strict SLAs.
+Deployed, managed and serviced telecommunication setups for over 100 clients at a fast-growing business-to-business service provider as a part of a small team.
+* Provided quality customer service and effectively troubleshooting telecommunication and related networking issues while adhering to strict SLAs.
 * Deployed new telecommunications systems with extensive training and exposure in both cloud systems and on-premise systems.
 <br>
 <br>
