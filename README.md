@@ -14,7 +14,7 @@ With 4 years of experience at a leading professional services firm working acros
 1. [Key Skills](#key-skills)
 2. [Education](#education)
 3. [Work Experience](#work-experience)
-4. [Showcase Projects](#showcase-projects:-demo-projects)
+4. [Showcase Projects](#showcase-projects)
 <br>
 <br>
 
