@@ -11,10 +11,10 @@ With 4 years of experience at a leading professional services firm working acros
 <br>
 
 ## Navigation
-- [Key Skills](#key-skills)
-- [Education](#education)
-- [Work Experience](#work-experience)
-- [Showcase Projects](#showcase-projects)
+1. [Key Skills](#key-skills)
+2. [Education](#education)
+3. [Work Experience](#work-experience)
+4. [Showcase Projects](#showcase-projects:-demo-projects)
 <br>
 <br>
 
