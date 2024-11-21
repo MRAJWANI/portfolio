@@ -17,3 +17,8 @@ You can use the links below to access all of the demo projects directly on nbvie
 
 ## SQL:
 ### [Food Ordering - DB Manipulation, Data Cleansing, Querying](https://www.db-fiddle.com/f/nijDR4mUiAMABuiPFX4npD/0)
+
+
+
+## Dashboard
+### [Power BI Dashboard - Financial and Sales Data](https://github.com/MRAJWANI/portfolio/blob/main/demo_projects/Adventrure%20Works%20Power%20BI.zip)
