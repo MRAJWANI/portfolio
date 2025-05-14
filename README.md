@@ -33,7 +33,7 @@ Specialising in Data and learning the skills to excel both personally and profes
 <br>
 
 ## Work Experience
-**Senior Consultant – Digital Specialist, Climate Change and Sustainability Services (CCaSS), EY, London, United Kingdom** <br>
+**Assistant Manager – Digital Specialist, Climate Change and Sustainability Services (CCaSS), EY, London, United Kingdom** <br>
 September 2023 - Current <br>
 *	Collaborate directly with stakeholders to assess business needs, define and manage requirements, and implement digital ESG solutions for sustainability performance and regulatory compliance, integrating advanced business and data analytics, process optimisations, and automation.
 *	Successfully manage and deliver both self-led and team projects, coordinating complex data science and reporting efforts across various initiatives using SQL, Python, Alteryx, Power BI, bespoke solutions and more.
