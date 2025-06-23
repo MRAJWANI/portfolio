@@ -68,7 +68,6 @@ Deployed, managed and serviced telecommunication setups for over 100 clients at 
 Below are a few of the projects I have worked on in my spare time to help learn and upskill.
 ### [Demo Projects](https://github.com/MRAJWANI/portfolio/tree/main/demo_projects)
 ### 1. [Python ML - Credit Card Fraud](https://github.com/MRAJWANI/portfolio/blob/main/demo_projects/Machine_Learning_%26_AI_Credit_Card_Fraud.ipynb)
-### 2. [Sentiment Analysis - CEO Commentary](https://github.com/MRAJWANI/portfolio/blob/main/demo_projects/Sentiment_Analysis_Financial_Statement.ipynb)
-### 3. [GeoJSON - Find Polygon for Coordinates](https://github.com/MRAJWANI/portfolio/blob/main/demo_projects/GeoJSON_Find_Polygon_for_Coordinates_.ipynb)
-### 4. [Data Ingestion - Ingest, Wrangle, Test](https://github.com/MRAJWANI/portfolio/blob/main/demo_projects/Data_Ingestion.ipynb)
+### 2. [GeoJSON - Find Polygon for Coordinates](https://github.com/MRAJWANI/portfolio/blob/main/demo_projects/GeoJSON_Find_Polygon_for_Coordinates_.ipynb)
+### 3. [Data Ingestion - Ingest, Wrangle, Test](https://github.com/MRAJWANI/portfolio/blob/main/demo_projects/Data_Ingestion.ipynb)
 
